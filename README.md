@@ -17,13 +17,12 @@
 
 <img src="js/Assets/img/JS.jpg" alt="Exemplo imagem">
 
-> Imagem mostrando uma prévia do projeto, se ficou curioso acesse tanto pelo link app ao lado ou escaneie o QRcode.
+> Imagem mostrando uma prévia da linguagem que foi usada neste projeto, se ficou curioso aqui está todos os códigos.
 
 ### Ajustes e melhorias
 
 Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 
-- [x] Animações simples 1
-- [x] Responsividade 2
+- [x] Exercitar a lógica de programação 1
+- [x] Capacidade de compreensção da sintaxe 2
       
-<img src="Assets/img/QRcode.png" alt="css3" width="200" height="200"/>
