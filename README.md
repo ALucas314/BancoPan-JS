@@ -15,7 +15,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ALucas314/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ALucas314/README-template?style=for-the-badge)
 
-<img src="Assets/img/JS.jpg" alt="Exemplo imagem">
+<img src="JS/Assets/img/JS.jpg" alt="Exemplo imagem">
 
 > Imagem mostrando uma prévia do projeto, se ficou curioso acesse tanto pelo link app ao lado ou escaneie o QRcode.
 
