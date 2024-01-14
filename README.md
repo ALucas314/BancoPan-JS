@@ -24,5 +24,5 @@
 Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 
 - [x] Exercitar a lógica de programação 1
-- [x] Capacidade de compreensção da sintaxe 2
+- [x] Capacidade de compreensão da sintaxe 2
       
