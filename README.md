@@ -19,7 +19,7 @@
 
 > Imagem mostrando uma prévia da linguagem que foi usada neste projeto, se ficou curioso aqui está todos os códigos.
 
-###🚀 Ajustes e melhorias
+### Ajustes e melhorias 🚀
 
 Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 
